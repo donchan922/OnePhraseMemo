@@ -1,0 +1,53 @@
+{
+  "id": "39a4e93a-618f-407e-a106-07c366d590c7",
+  "name": "Memo Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ff90479d-af67-48ad-9cea-0613c6418dea",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        },
+        {
+          "id": "10a6cabf-a7be-4639-9cab-f7efebdb6c3c",
+          "required": false,
+          "dataType": "@end",
+          "name": "end",
+          "value": "$end",
+          "isList": false
+        },
+        {
+          "id": "216c8b2b-2224-4001-bfb5-02adba4ab73b",
+          "required": false,
+          "dataType": "@memoListen",
+          "name": "memoListen",
+          "value": "$memoListen",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524921582,
+  "fallbackIntent": false,
+  "events": []
+}

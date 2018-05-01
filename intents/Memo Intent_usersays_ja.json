@@ -1,0 +1,44 @@
+[
+  {
+    "id": "91789da7-6e93-4042-9289-670fbafecc1d",
+    "data": [
+      {
+        "text": "メモを聞く",
+        "alias": "memoListen",
+        "meta": "@memoListen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524921209
+  },
+  {
+    "id": "20d02b0b-c448-4cc3-964a-a2505384343d",
+    "data": [
+      {
+        "text": "メモ内容",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524895817
+  },
+  {
+    "id": "3a2d3fa9-19cc-4a90-adfe-6b8d176922da",
+    "data": [
+      {
+        "text": "終了",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524910126
+  }
+]
